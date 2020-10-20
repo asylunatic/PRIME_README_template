@@ -10,8 +10,8 @@
     - [Usage](#usage)
 
 # About this project
-Explain the aim of the applet and briefly describe how it works (for the user). Tell what it is, with context. For example:  
-This 4D rotations applet gives insight in how the monstrosities of quaternions work. Students can play with the parameters and use it to answer the corresponding homework exercises. This applet has been developed as part of the course material for mathematics at TU Delft.
+Explain the aim of the applet and briefly describe how it works (for the user). Tell what it is, with context. Also, add videos!! For example:  
+This 4D rotations applet gives insight in how the monstrosities of quaternions work. Students can play with the parameters and use it to answer the corresponding homework exercises. This applet has been developed as part of the course material for mathematics at TU Delft. A more in depth explanation of how the visualization works can be seen in this animation: https://youtu.be/BUgAAruWb9s
 
 # Getting Started
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps:
